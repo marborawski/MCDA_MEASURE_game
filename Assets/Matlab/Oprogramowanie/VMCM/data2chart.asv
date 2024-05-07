@@ -1,0 +1,318 @@
+clear all
+
+file_code = 'VIKOR_wynik-2010-2016';
+sheet_code = '2015';
+column_code_in_file_code = 1;
+column_code = 1;
+column_measure = 3;
+resultFile = 'result';
+
+
+t = 1;
+files{t} = 'VIKOR_wynik-2010-2016.xls';t = t + 1;
+files{t} = 'VIKOR_wynik-2005-2016.xls';t = t + 1;
+files{t} = 'VIKOR_wynik-2005-2009.xls';t = t + 1;
+
+t = 1;
+lata{t} = '2005';t = t + 1;
+lata{t} = '2006';t = t + 1;
+lata{t} = '2007';t = t + 1;
+lata{t} = '2008';t = t + 1;
+lata{t} = '2009';t = t + 1;
+lata{t} = '2010';t = t + 1;
+lata{t} = '2011';t = t + 1;
+lata{t} = '2012';t = t + 1;
+lata{t} = '2013';t = t + 1;
+lata{t} = '2014';t = t + 1;
+lata{t} = '2015';t = t + 1;
+lata{t} = '2016';t = t + 1;
+
+info = cell(1,length(files));
+for ii = 1:length(info)
+    [A,info{ii}] = xlsfinfo(files{ii});    
+end;
+
+result = cell(1,length(info));
+style = cell(1,length(info));
+color = cell(1,length(info));
+
+[a b d] = xlsread(file_code,sheet_code);
+sheets = cell(1,length(info));
+for k=1:length(result)
+    sheets{k} = num2str(k);
+    result{k}{1,1} = files{k};
+    style{k}{1,1} = 's';
+    color{k}{1,1} = [];
+    for ii = 1:length(lata)
+        result{k}{2,ii} = lata{ii};
+        style{k}{2,ii} = 's';
+        color{k}{2,ii} = [];
+    end
+end
+
+for ii = 1:size(d,1)
+    for jj = 1:2
+        for k=1:length(result)
+            result{k}{ii + 1,jj} = d{ii,jj};
+            style{k}{ii + 1,jj} = 's';
+            color{k}{ii + 1,jj} = [];
+        end
+    end
+end
+
+for ii = 1:length(lata)
+    for jj = 1:length(info)
+        no = 0;
+        for k = 1:length(info{jj})
+            if strcmp(info{jj}(k),lata{ii})
+                no = k;
+                break;
+            end
+        end
+        if no > 0
+            [a b data] = xlsread(files{jj},info{jj}{k});
+            for iii = 2:size(d,1)
+                for jjj = 2:size(data,2)
+                    if strcmp(d{iii,column_code_in_file_code},data{jjj,column_code})
+                        result{
+                        break;
+                    end
+                end
+            end
+        end
+    end;
+
+    
+end;
+
+saveXLS(resultFile,sheets,result,style,color);
+
+
+return;
+
+
+[a b param] = xlsread(nazwa_pliku,'parametry');
+
+for ii = 2:size(param,1)
+    zmienne{ii-1} = param{ii,1};
+    wagi{ii-1} = param{ii,2};
+    charakter{ii-1} = param{ii,3};
+end
+
+wagi = convert(wagi);
+
+[data nazwy_wariantow_decyzyjnych code] = readData(nazwa_pliku,lata);
+
+saveDataXLS('Dane',data,lata,zmienne,nazwy_wariantow_decyzyjnych,code,[],[]);
+
+[data color] = interpolacja(data);
+
+saveDataXLS('Interpolacja',data,lata,zmienne,nazwy_wariantow_decyzyjnych,code,color,[]);
+
+wagi2 = wagi/sum(wagi);
+
+idealne = zeros(1,size(data{1},2));
+antyidelane = zeros(1,size(data{1},2));
+for ii = 1:size(data{1},2)
+    res = [];
+    for k = 1:length(data)
+        res = [res;data{k}(:,ii)];
+    end
+    if strcmp(charakter(ii),'s') == 1
+        idealne(ii) = max(res);
+        antyidelane(ii) = min(res);
+    else
+        idealne(ii) = min(res);
+        antyidelane(ii) = max(res);
+    end
+end
+
+
+r = cell(1,length(data));
+for k = 1:length(data)
+    r{k} = zeros(size(data{k}));
+    for ii = 1:size(data{1},2)
+        r{k}(:,ii) = (idealne(ii) - data{k}(:,ii))/(idealne(ii) - antyidelane(ii));
+    end
+end
+
+saveDataXLS('Normowanie',r,lata,zmienne,nazwy_wariantow_decyzyjnych,code,color,[]);
+
+S = cell(1,length(r));
+R = cell(1,length(r));
+
+for k = 1:length(r)
+    S{k} = zeros(size(data{1},1),1);
+    R{k} = zeros(size(data{1},1),1);
+    for ii = 1:size(r{1},1)
+        pom = r{k}(ii,:).*wagi;
+        S{k}(ii) = sum(pom);
+        R{k}(ii) = max(pom);
+    end
+end
+
+Q = cell(1,length(r));
+
+for k = 1:length(r)
+    Q{k} = zeros(size(data{1},1),1);
+    for ii = 1:size(r{1},1)
+        Q{k}(ii) = q*(S{k}(ii) - min(S{k}))/(max(S{k}) - min(S{k})) + (1-q)*(R{k}(ii) - min(R{k}))/(max(R{k}) - min(R{k}));
+    end
+end
+
+res = cell(1,length(Q));
+style = cell(1,length(Q));
+color = cell(1,length(Q));
+for k = 1:length(Q)
+    res{k} = cell(3,4);
+    style{k} = cell(3,4);
+    color{k} = cell(3,4);
+    res{k}{1,1} = 'Obiekt';
+    res{k}{1,2} = 'Kod';
+    res{k}{1,3} = 'Wynik';
+    res{k}{1,4} = 'Q';
+    style{k}{1,1} = 's';
+    style{k}{1,2} = 's';
+    style{k}{1,3} = 's';
+    style{k}{1,4} = 's';
+    color{k}{1,1} = [];
+    color{k}{1,2} = [];
+    color{k}{1,3} = [];
+    color{k}{1,4} = [];
+    
+    [Qa Qb] = sort(Q{k});
+    [Ra Rb] = sort(R{k});
+    [Sa Sb] = sort(S{k});
+ 
+    DQ = 1/(length(Q{k})-1);
+
+    war1 = 0;
+    if Qa(2) - Qa(1) >= DQ
+        war1 = 1;
+    end
+
+    war2 = 0;
+    if Qb(1) == Rb(1) && Qb(1) == Sb(1)
+        war2 = 1;
+    end
+    
+    if war1==1 && war2 == 1
+        res{k}{2,1} = nazwy_wariantow_decyzyjnych{Qb(1)};
+        style{k}{2,1} = 's';
+        color{k}{2,1} = [];
+        res{k}{2,2} = code{Qb(1)};
+        style{k}{2,2} = 's';
+        color{k}{2,2} = [];
+        res{k}{2,3} = 'Rozwiazanie najlepsze';
+        style{k}{2,3} = 's';
+        color{k}{2,3} = [];
+        res{k}{2,4} = Qa(1);
+        style{k}{2,4} = 'd';
+        color{k}{2,4} = [];
+        for ii=2:length(Q{1})
+            res{k}{ii+1,1} = nazwy_wariantow_decyzyjnych{Qb(ii)};
+            style{k}{ii+1,1} = 's';
+            color{k}{ii+1,1} = [];
+            res{k}{ii+1,2} = code{Qb(ii)};
+            style{k}{ii+1,2} = 's';
+            color{k}{ii+1,2} = [];
+            res{k}{ii+1,3} = 'Inne rozwiazanie';
+            style{k}{ii+1,3} = 's';
+            color{k}{ii+1,3} = [];
+            res{k}{ii+1,4} = Qa(ii);
+            style{k}{ii+1,4} = 'd';
+            color{k}{ii+1,4} = [];
+        end
+    elseif war2 == 1
+        res{k}{2,1} = nazwy_wariantow_decyzyjnych{Qb(1)};
+        style{k}{2,1} = 's';
+        color{k}{2,1} = [];
+        res{k}{2,2} = code{Qb(1)};
+        style{k}{2,2} = 's';
+        color{k}{2,2} = [];
+        res{k}{2,3} = 'Rozwiazanie najlepsze';
+        style{k}{2,3} = 's';
+        color{k}{2,3} = [];
+        res{k}{2,4} = Qa(1);
+        style{k}{2,4} = 'd';
+        color{k}{2,4} = [];
+
+        res{k}{3,1} = nazwy_wariantow_decyzyjnych{Qb(2)};
+        style{k}{3,1} = 's';
+        color{k}{3,1} = [];
+        res{k}{3,2} = code{Qb(2)};
+        style{k}{3,2} = 's';
+        color{k}{3,2} = [];
+        res{k}{3,3} = 'Rozwiazanie kompromisowe';
+        style{k}{3,3} = 's';
+        color{k}{3,3} = [];
+        res{k}{3,4} = Qa(2);
+        style{k}{3,4} = 'd';
+        color{k}{3,4} = [];
+
+        for ii=3:length(Q{1})
+            res{k}{ii+1,1} = nazwy_wariantow_decyzyjnych{Qb(ii)};
+            style{k}{ii+1,1} = 's';
+            color{k}{ii+1,1} = [];
+            res{k}{ii+1,2} = code{Qb(ii)};
+            style{k}{ii+1,2} = 's';
+            color{k}{ii+1,2} = [];
+            res{k}{ii+1,3} = 'Inne rozwiazanie';
+            style{k}{ii+1,3} = 's';
+            color{k}{ii+1,3} = [];
+            res{k}{ii+1,4} = Qa(ii);
+            style{k}{ii+1,4} = 'd';
+            color{k}{ii+1,4} = [];
+        end
+    
+    else
+        res{k}{2,1} = nazwy_wariantow_decyzyjnych{Qb(1)};
+        style{k}{2,1} = 's';
+        color{k}{2,1} = [];
+        res{k}{2,2} = code{Qb(1)};
+        style{k}{2,2} = 's';
+        color{k}{2,2} = [];
+        res{k}{2,3} = 'Rozwiazanie najlepsze';
+        style{k}{2,3} = 's';
+        color{k}{2,3} = [];
+        res{k}{2,4} = Qa(1);
+        style{k}{2,4} = 'd';
+        color{k}{2,4} = [];
+        
+        res{k}{3,1} = nazwy_wariantow_decyzyjnych{Qb(2)};
+        style{k}{3,1} = 's';
+        color{k}{3,1} = [];
+        res{k}{3,2} = code{Qb(2)};
+        style{k}{3,2} = 's';
+        color{k}{3,2} = [];
+        res{k}{3,3} = 'Rozwiazanie kompromisowe';
+        style{k}{3,3} = 's';
+        color{k}{3,3} = [];
+        res{k}{3,4} = Qa(2);
+        style{k}{3,4} = 'd';
+        color{k}{3,4} = [];
+        tmp='Rozwiazanie kompromisowe';
+        for ii=3:length(Q{1})
+            res{k}{ii+1,1} = nazwy_wariantow_decyzyjnych{Qb(ii)};
+            style{k}{ii+1,1} = 's';
+            color{k}{ii+1,1} = [];
+            res{k}{ii+1,2} = code{Qb(ii)};
+            style{k}{ii+1,2} = 's';
+            color{k}{ii+1,2} = [];
+            res{k}{ii+1,3} = tmp;
+            style{k}{ii+1,3} = 's';
+            color{k}{ii+1,3} = [];
+            res{k}{ii+1,4} = Qa(ii);
+            style{k}{ii+1,4} = 'd';
+            color{k}{ii+1,4} = [];
+            if Qb(ii) - Qb(1) < DQ
+                tmp = 'Inne rozwi±zanie';
+            end
+        end
+        
+    end    
+end
+
+saveXLS(plik_wynikowy,lata,res,style,color);
+
+

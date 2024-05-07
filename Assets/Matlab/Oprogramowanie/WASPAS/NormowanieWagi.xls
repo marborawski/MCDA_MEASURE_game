@@ -1,0 +1,518 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <Styles>
+    <Style ss:ID="s21">
+    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+    <NumberFormat/>
+    </Style>
+  </Styles>
+    <Worksheet ss:Name="2016">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekty</Data></Cell>
+          <Cell><Data ss:Type="String">Kody</Data></Cell>
+          <Cell><Data ss:Type="String">C1</Data></Cell>
+          <Cell><Data ss:Type="String">C10</Data></Cell>
+          <Cell><Data ss:Type="String">C11</Data></Cell>
+          <Cell><Data ss:Type="String">C12</Data></Cell>
+          <Cell><Data ss:Type="String">C16</Data></Cell>
+          <Cell><Data ss:Type="String">C17</Data></Cell>
+          <Cell><Data ss:Type="String">C2</Data></Cell>
+          <Cell><Data ss:Type="String">C3</Data></Cell>
+          <Cell><Data ss:Type="String">C4</Data></Cell>
+          <Cell><Data ss:Type="String">C5</Data></Cell>
+          <Cell><Data ss:Type="String">C6</Data></Cell>
+          <Cell><Data ss:Type="String">C7</Data></Cell>
+          <Cell><Data ss:Type="String">C8</Data></Cell>
+          <Cell><Data ss:Type="String">C9</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">1.066795e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.524554e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.405782e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.779379e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.458336e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.368324e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.097233e-02</Data></Cell>
+          <Cell><Data ss:Type="Number">8.539988e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">8.131185e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.165447e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.478824e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">5.180701e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.767898e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">8.374950e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">1.172718e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.524554e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.163356e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.635104e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.497224e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.029948e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.994802e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.953018e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.537126e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">9.606581e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.739412e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.345436e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.171911e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.003091e-03</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">1.732596e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.822497e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.880275e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.945609e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.972234e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.661624e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.652304e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.993332e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">6.683166e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.267783e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.001171e-02</Data></Cell>
+          <Cell><Data ss:Type="Number">2.907378e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.489968e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.661892e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">1.218113e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.872099e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.017004e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.873471e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.069446e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.387399e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.550745e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">9.560414e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">6.813117e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.189041e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.617588e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.438224e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">9.059006e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.556489e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">7.338945e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.006804e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.986706e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.798197e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.069446e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.789441e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.228832e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.337344e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">8.047646e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.433172e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.478824e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.304252e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.410305e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.451086e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">1.248377e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.155775e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.908371e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.983246e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.575002e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.947206e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.521474e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.920444e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">8.363240e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.385926e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.288787e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.132376e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">9.555057e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">9.003447e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">6.581289e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.820413e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.327735e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.750003e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">9.586292e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.960367e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.661468e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.787745e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.362274e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.243647e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.979659e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.801140e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.008801e-03</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">1.641805e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.446584e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.661501e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.199658e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.361113e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.428527e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">9.304539e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.426250e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.156557e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.984369e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.907100e-02</Data></Cell>
+          <Cell><Data ss:Type="Number">4.453856e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.171911e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.575523e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">1.603976e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.304746e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.005179e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.334008e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">8.555568e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.428527e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.356243e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.989461e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">4.566830e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.521305e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.478824e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.350646e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.708299e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.194844e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">1.687201e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.219643e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.756106e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.588058e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.127779e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.473603e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.378607e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.807243e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">6.311879e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.236286e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.121824e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.675407e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.352891e-02</Data></Cell>
+          <Cell><Data ss:Type="Number">7.575523e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">8.776470e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">6.864966e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.483383e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.763697e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.730558e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.623958e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.406134e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.539988e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.184404e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.740238e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.121824e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.984869e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.496261e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">9.478921e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">1.028965e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.411084e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.465644e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.443783e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.341669e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.857055e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.731466e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.066219e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">6.775988e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.393771e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.121824e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.474365e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.483082e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">9.593125e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">1.475355e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.928834e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.241691e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.503374e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">9.527792e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">8.947206e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.123888e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.191569e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">6.729577e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.582117e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.235177e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.376532e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.031058e-02</Data></Cell>
+          <Cell><Data ss:Type="Number">7.118708e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">1.097059e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.382716e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.051747e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.948745e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">9.333347e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.172893e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.796881e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.240161e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.889849e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.204789e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.420977e-02</Data></Cell>
+          <Cell><Data ss:Type="Number">2.195999e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.589102e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.679494e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">1.255943e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.155775e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.361829e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.512784e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.419447e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.090151e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.881136e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.005848e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.379329e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.765756e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.478824e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.469154e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.503146e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">9.288581e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">1.558580e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.418217e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.666680e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.559830e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">9.138903e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.578882e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.223668e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.612876e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">4.910271e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">8.346702e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.739412e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.690871e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.019471e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.746829e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">1.656937e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.964335e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.838152e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.958154e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.147224e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.789441e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.872589e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.272198e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.648512e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.267783e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.487294e-02</Data></Cell>
+          <Cell><Data ss:Type="Number">3.958983e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.151847e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">6.966436e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">1.248377e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.928834e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.855890e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.955018e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.575002e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.278172e-02</Data></Cell>
+          <Cell><Data ss:Type="Number">1.688449e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.406361e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.926978e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">8.661672e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.869706e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.350980e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.324350e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">9.954770e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">1.649371e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.276379e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.490030e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.042838e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.108335e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.405990e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.929352e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.733819e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.555691e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.677244e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.375112e-02</Data></Cell>
+          <Cell><Data ss:Type="Number">5.752898e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.132376e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.232912e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">1.248377e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.297613e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">4.198099e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.503374e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.069446e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.556345e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.084325e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">8.855834e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">8.966581e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.732334e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">9.278867e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.966758e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">9.478921e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">9.608721e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">6.609657e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.139705e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.321462e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.613891e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.308120e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.502564e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">9.220272e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">8.363240e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.456765e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.739412e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">9.278867e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">4.469904e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">9.307615e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">1.308905e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.042304e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.601639e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.948745e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.205557e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.917258e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.920804e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.106534e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.444305e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.133892e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.600647e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.747520e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.025098e-02</Data></Cell>
+          <Cell><Data ss:Type="Number">6.966436e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">1.437525e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.503320e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.821219e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.283825e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.205557e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.172893e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.485330e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.794558e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">6.850245e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.755986e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.365471e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.407462e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.108536e-02</Data></Cell>
+          <Cell><Data ss:Type="Number">7.423251e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">1.914178e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.964335e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.864045e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.826425e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">9.333347e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.917258e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.622964e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">8.564284e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">6.432547e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">8.189217e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.121824e-01</Data></Cell>
+          <Cell><Data ss:Type="Number">3.866195e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.959872e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">5.291446e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">1.051663e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">6.921701e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.878789e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.732333e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.186113e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.428527e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">4.709068e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.835409e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.119428e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.228383e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">7.478824e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.293998e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.781076e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.603358e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">9.608721e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">6.950069e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.359948e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.917381e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">9.916682e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.533807e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.034365e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.078367e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.388611e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.992214e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">2.991530e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.855773e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.575923e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.451086e-04</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">1.202982e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">5.872099e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">2.619377e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">3.766833e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">1.575002e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.947206e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.456093e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">8.382065e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">7.834156e-04</Data></Cell>
+          <Cell><Data ss:Type="Number">3.307184e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.121824e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.438224e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.013178e-03</Data></Cell>
+          <Cell><Data ss:Type="Number">1.001187e-03</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+</Workbook>

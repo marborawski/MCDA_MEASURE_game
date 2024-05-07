@@ -1,0 +1,2410 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <Styles>
+    <Style ss:ID="s21">
+    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+    <NumberFormat/>
+    </Style>
+  </Styles>
+    <Worksheet ss:Name="2005">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekt</Data></Cell>
+          <Cell><Data ss:Type="String">Kod</Data></Cell>
+          <Cell><Data ss:Type="String">Q</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wynik</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0.153629</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie najlepsze</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.160789</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0.178788</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0.213712</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0.229173</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0.251568</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0.272294</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0.273808</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.328965</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0.375001</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.376441</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0.384805</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0.385216</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0.457696</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.480277</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0.507839</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.510017</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0.510051</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0.520407</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.598105</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.638648</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.735134</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.817497</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0.862684</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.863705</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.937438</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.974541</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2006">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekt</Data></Cell>
+          <Cell><Data ss:Type="String">Kod</Data></Cell>
+          <Cell><Data ss:Type="String">Q</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wynik</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0.126302</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie najlepsze</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0.148104</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0.166619</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.196325</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0.232399</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0.249466</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0.257933</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0.268743</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.357741</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.359661</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0.371152</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0.384891</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.394736</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0.399364</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0.441546</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0.481856</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0.518974</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0.520734</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.559597</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.593008</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.652282</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.697939</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.714593</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.825884</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0.863517</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.908927</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.931312</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2007">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekt</Data></Cell>
+          <Cell><Data ss:Type="String">Kod</Data></Cell>
+          <Cell><Data ss:Type="String">Q</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wynik</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0.149285</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie najlepsze</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0.180556</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.190331</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0.220387</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0.240684</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0.241242</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0.278523</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0.283629</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.305566</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0.338297</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.37203</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0.375855</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0.384605</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.420958</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0.43872</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0.474423</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.492011</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0.523883</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0.523898</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.603353</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.626592</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.667355</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.760965</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.861216</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0.865649</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.889715</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.92035</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2008">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekt</Data></Cell>
+          <Cell><Data ss:Type="String">Kod</Data></Cell>
+          <Cell><Data ss:Type="String">Q</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wynik</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0773585</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie najlepsze</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0.156403</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0.165989</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.189096</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0.203575</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0.224454</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0.273704</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0.281239</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0.288417</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.294713</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0.356109</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0.405367</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.433031</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.445945</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0.474402</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0.478668</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.4835</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.504326</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0.551916</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0.591709</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.65276</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.661445</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.803972</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0.832203</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.875114</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.900943</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.937499</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2009">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekt</Data></Cell>
+          <Cell><Data ss:Type="String">Kod</Data></Cell>
+          <Cell><Data ss:Type="String">Q</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wynik</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0516129</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie najlepsze</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0.169906</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0.181344</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.185508</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0.189704</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0.210139</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.247361</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0.257002</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0.279772</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0.328593</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0.34624</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.408503</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0.429064</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0.437212</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.504885</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.512484</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.525007</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0.593249</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0.598906</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0.69599</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.702766</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.788582</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0.850691</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.867816</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.933827</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.944132</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.946691</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2010">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekt</Data></Cell>
+          <Cell><Data ss:Type="String">Kod</Data></Cell>
+          <Cell><Data ss:Type="String">Q</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wynik</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0597344</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie najlepsze</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0.154668</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.204677</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0.218145</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0.219994</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.228975</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0.241516</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0.246415</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0.362821</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0.364157</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0.382344</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.45785</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0.495998</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.528472</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0.539595</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0.545197</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.555713</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0.60695</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.672719</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.732561</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0.757378</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.777325</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.813633</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.899632</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0.923628</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.954635</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.977471</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2011">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekt</Data></Cell>
+          <Cell><Data ss:Type="String">Kod</Data></Cell>
+          <Cell><Data ss:Type="String">Q</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wynik</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0743903</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie najlepsze</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0.145183</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.168008</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.1905</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0.196481</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0.204235</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0.207413</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0.235515</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0.28724</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0.322834</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0.359394</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.412981</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0.433443</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0.477228</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0.478926</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.486513</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.515613</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0.600843</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0.665808</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.681124</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.71789</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.738475</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.750632</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.835134</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.861985</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0.898804</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.915867</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2012">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekt</Data></Cell>
+          <Cell><Data ss:Type="String">Kod</Data></Cell>
+          <Cell><Data ss:Type="String">Q</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wynik</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0815533</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie najlepsze</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.18008</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0.189522</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0.200542</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0.236674</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0.243717</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.25217</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0.275778</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0.330021</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.358919</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0.362631</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0.450037</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.469041</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0.493177</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0.504167</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0.508595</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.558987</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0.599614</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.703611</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0.748014</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.764559</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.787678</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.793617</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0.864528</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.869562</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.923873</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.925614</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2013">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekt</Data></Cell>
+          <Cell><Data ss:Type="String">Kod</Data></Cell>
+          <Cell><Data ss:Type="String">Q</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wynik</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0.119723</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie najlepsze</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.130861</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0.22089</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0.224786</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0.228408</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0.247423</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.27004</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0.307883</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.34073</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0.347944</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.360659</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0.39986</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0.421839</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0.483069</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0.485227</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0.518825</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.571506</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0.580605</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.617424</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0.622434</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.739253</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.745707</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.775857</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.777685</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0.824328</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.842129</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.955771</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Inne rozwiązanie</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2014">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekt</Data></Cell>
+          <Cell><Data ss:Type="String">Kod</Data></Cell>
+          <Cell><Data ss:Type="String">Q</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wynik</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.124482</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie najlepsze</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0.207668</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0.263324</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0.27156</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0.277823</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0.33196</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.364082</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0.384045</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0.395334</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.421384</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.423116</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0.484347</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.494602</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0.511618</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0.556266</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0.570535</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0.604225</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0.65236</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0.652746</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.672982</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0.69669</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.747408</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.756859</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.810982</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.856522</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.871469</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.918589</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2015">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekt</Data></Cell>
+          <Cell><Data ss:Type="String">Kod</Data></Cell>
+          <Cell><Data ss:Type="String">Q</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wynik</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.13096</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie najlepsze</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0.283812</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0.286645</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0.323817</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0.369979</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0.390759</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0.410077</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.43215</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0.463644</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.498588</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.523929</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0.537034</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0.616093</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.654844</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0.656821</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0.672634</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0.679777</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0.716921</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.733961</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0.75316</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.780163</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0.803393</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.809716</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.817524</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.879118</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.889184</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.947083</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2016">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekt</Data></Cell>
+          <Cell><Data ss:Type="String">Kod</Data></Cell>
+          <Cell><Data ss:Type="String">Q</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wynik</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0666496</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie najlepsze</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0.280466</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0.33061</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0.393806</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0.4</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0.457565</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0.483167</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.518786</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0.544806</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0.558187</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.611634</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.619991</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0.643605</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0.700047</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0.70095</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0.751802</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0.757859</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0.771356</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.778996</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.825641</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0.825786</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0.850752</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0.854628</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.859363</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0.865352</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0.929199</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+          <Cell><Data ss:Type="String">Rozwiązanie kompromisowe</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+</Workbook>

@@ -1,0 +1,2746 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <Styles>
+    <Style ss:ID="s21">
+    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+    <NumberFormat/>
+    </Style>
+  </Styles>
+    <Worksheet ss:Name="2005">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekty</Data></Cell>
+          <Cell><Data ss:Type="String">Kody</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary (ważone odchylenie)</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.29042</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.31842</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.288394</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.180202</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.107959</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.742339</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.27159</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.211832</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0950886</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.430683</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.08049</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.11398</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.419563</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.109865</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.945416</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.504261</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.283548</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.20332</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.24677</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.229229</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.30445</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.248841</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.229819</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.306014</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.108122</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.178009</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.11581</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2006">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekty</Data></Cell>
+          <Cell><Data ss:Type="String">Kody</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary (ważone odchylenie)</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.1206</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.21682</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.272653</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0239774</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0737047</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.742301</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.23786</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.176788</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0955437</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.600308</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.876669</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.11384</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.395518</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0414406</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.35325</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.198453</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.214609</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.5432</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.279954</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.225732</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.27031</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.182899</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.229384</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.286745</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0742482</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.141758</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.25162</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2007">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekty</Data></Cell>
+          <Cell><Data ss:Type="String">Kody</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary (ważone odchylenie)</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.22259</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.979058</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.256389</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0921937</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.107219</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.776279</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.27209</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.210854</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.061367</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.77089</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.843078</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.807984</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.371476</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.211307</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.38725</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.164427</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.111493</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.64538</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.280177</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.221741</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.27052</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.148737</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.262681</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.26765</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0742354</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.175586</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.742031</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2008">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekty</Data></Cell>
+          <Cell><Data ss:Type="String">Kody</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary (ważone odchylenie)</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.984884</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.14928</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.239935</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0922056</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0730261</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.810463</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.3064</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.141994</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.231307</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.04325</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.01344</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.842099</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.347354</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.211424</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.52341</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.266331</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.111206</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.81527</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.244914</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.218211</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.27066</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.215838</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.432421</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.185018</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0396343</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.140791</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.980189</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2009">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekty</Data></Cell>
+          <Cell><Data ss:Type="String">Kody</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary (ważone odchylenie)</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.543527</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.38741</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.223828</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.194569</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0724995</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.742697</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.51027</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.141242</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.163679</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.07809</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.35333</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.11419</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.323211</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.143608</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.38741</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0626868</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.110271</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">3.05318</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.245081</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.129621</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.30453</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.181488</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.29622</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.218674</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0288336</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.174792</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.25207</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2010">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekty</Data></Cell>
+          <Cell><Data ss:Type="String">Kody</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary (ważone odchylenie)</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.611906</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.69312</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.179798</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.296538</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0379982</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.844622</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.61229</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.140533</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0958019</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.975932</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.38742</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.21627</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.299042</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.177999</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.28517</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0288082</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.109938</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">3.08735</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.279528</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.12948</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.30471</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.215108</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.500287</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.252188</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0395075</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.174122</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.45598</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2011">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekty</Data></Cell>
+          <Cell><Data ss:Type="String">Kody</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary (ważone odchylenie)</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.442028</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.35318</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.179803</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0586543</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0378624</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.844795</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.40837</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0718779</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0268328</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.5001</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.31976</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.08041</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.275402</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.109734</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.25061</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.198416</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.041819</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.81541</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.244865</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.367232</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.06672</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.213785</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.568595</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.18387</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0398316</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.17499</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.4218</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2012">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekty</Data></Cell>
+          <Cell><Data ss:Type="String">Kody</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary (ważone odchylenie)</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.475771</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.14957</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.213429</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.111322</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0719107</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.776835</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.34078</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.105483</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0394189</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0583875</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.32</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.04651</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.346619</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.144056</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.11459</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.00530114</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0415102</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.91732</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.210244</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.29916</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.93074</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.179846</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.466645</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.183231</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0392641</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.175097</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.42161</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2013">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekty</Data></Cell>
+          <Cell><Data ss:Type="String">Kody</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary (ważone odchylenie)</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.441815</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.04771</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.145404</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.145712</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.105868</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.810987</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.40845</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0371692</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.141804</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0924174</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.35417</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.910572</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.210496</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.144297</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.08065</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0971148</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.108972</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.91749</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.210103</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.197028</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.79449</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.145903</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.296573</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.250759</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0392824</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.175154</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.93149</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2014">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekty</Data></Cell>
+          <Cell><Data ss:Type="String">Kody</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary (ważone odchylenie)</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.476122</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.08177</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.179157</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.180084</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.105885</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.94704</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.44252</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0312773</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.108073</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0435502</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.52408</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.77454</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0405221</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.110188</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.808923</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.165186</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.142708</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">3.12121</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.209577</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.196931</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.69227</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.180183</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.16086</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.114428</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0396796</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.175281</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.89744</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2015">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekty</Data></Cell>
+          <Cell><Data ss:Type="String">Kody</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary (ważone odchylenie)</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.714301</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.945731</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.178393</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.17982</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0720475</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.28704</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.40896</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0314175</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.073662</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0774895</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.38828</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.774823</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.176435</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0421908</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.605355</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.267362</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0741328</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.74725</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.174891</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0950747</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.06596</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.14605</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0589356</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.182182</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0284786</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.141584</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.89742</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+    <Worksheet ss:Name="2016">
+      <Table>
+        <Row>
+          <Cell><Data ss:Type="String">Obiekty</Data></Cell>
+          <Cell><Data ss:Type="String">Kody</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary (ważone odchylenie)</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+          <Cell><Data ss:Type="String">Wartosc miary</Data></Cell>
+          <Cell><Data ss:Type="String">Klasa</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">AT</Data></Cell>
+          <Cell><Data ss:Type="String">Austria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.952656</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BE</Data></Cell>
+          <Cell><Data ss:Type="String">Belgium</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.38785</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">BG</Data></Cell>
+          <Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0419474</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CY</Data></Cell>
+          <Cell><Data ss:Type="String">Cyprus</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.115827</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">CZ</Data></Cell>
+          <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.00375265</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DE</Data></Cell>
+          <Cell><Data ss:Type="String">Germany</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.89894</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">DK</Data></Cell>
+          <Cell><Data ss:Type="String">Denmark</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.06903</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EE</Data></Cell>
+          <Cell><Data ss:Type="String">Estonia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.168181</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">EL</Data></Cell>
+          <Cell><Data ss:Type="String">Greece</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.164019</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">ES</Data></Cell>
+          <Cell><Data ss:Type="String">Spain</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.703926</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FI</Data></Cell>
+          <Cell><Data ss:Type="String">Finland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.01458</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">FR</Data></Cell>
+          <Cell><Data ss:Type="String">France</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.808988</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HR</Data></Cell>
+          <Cell><Data ss:Type="String">Croatia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.246627</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">HU</Data></Cell>
+          <Cell><Data ss:Type="String">Hungary</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.094268</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IE</Data></Cell>
+          <Cell><Data ss:Type="String">Ireland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.605383</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">IT</Data></Cell>
+          <Cell><Data ss:Type="String">Italy</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.471975</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LT</Data></Cell>
+          <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.00630439</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LU</Data></Cell>
+          <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">2.91723</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">LV</Data></Cell>
+          <Cell><Data ss:Type="String">Latvia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.10643</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">MT</Data></Cell>
+          <Cell><Data ss:Type="String">Malta</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.1972</Data></Cell>
+          <Cell><Data ss:Type="Number">2</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">NL</Data></Cell>
+          <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.72621</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PL</Data></Cell>
+          <Cell><Data ss:Type="String">Poland</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0241364</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">PT</Data></Cell>
+          <Cell><Data ss:Type="String">Portugal</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.092894</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">RO</Data></Cell>
+          <Cell><Data ss:Type="String">Romania</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.0219221</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SI</Data></Cell>
+          <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0.164793</Data></Cell>
+          <Cell><Data ss:Type="Number">3</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">SK</Data></Cell>
+          <Cell><Data ss:Type="String">Slovakia</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">-0.0728225</Data></Cell>
+          <Cell><Data ss:Type="Number">4</Data></Cell>
+        </Row>
+        <Row>
+          <Cell><Data ss:Type="String">UK</Data></Cell>
+          <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">0</Data></Cell>
+          <Cell><Data ss:Type="Number">1.89752</Data></Cell>
+          <Cell><Data ss:Type="Number">1</Data></Cell>
+        </Row>
+      </Table>
+    </Worksheet>
+</Workbook>
