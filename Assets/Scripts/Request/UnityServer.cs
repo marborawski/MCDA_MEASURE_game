@@ -195,6 +195,10 @@ public class UnityServer : MonoBehaviour
         public int towers = 0;
         [XmlAttribute("sumTowerPlace")]
         public int sumTowerPlace = 0;
+        [XmlAttribute("numberOfBullets")]
+        public int numberOfBullets = -1;
+        [XmlAttribute("lossHealth")]
+        public float lossHealth = -1;
         [XmlAttribute("hits")]
         public int hits = -1;
         [XmlAttribute("nohits")]
@@ -625,6 +629,8 @@ public class UnityServer : MonoBehaviour
                         hitEnemyInfo = managementCost.GetHits(beginTile[i], endTile[j]);
                         choice.hits = hitEnemyInfo.nHit;
                         choice.noHits = hitEnemyInfo.nNoHit;
+                        choice.numberOfBullets = managementCost.GetNuberOfBullets(beginTile[i], endTile[j]);
+                        choice.lossHealth = managementCost.GetLossHelath(beginTile[i], endTile[j]);
                         if (level)
                         {
                             choice.table = AnswerCreatePathElements(beginTile[i], endTile[j]);

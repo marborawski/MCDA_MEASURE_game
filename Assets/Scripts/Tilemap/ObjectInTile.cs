@@ -28,7 +28,7 @@ public class ObjectInTile : MonoBehaviour
             objectInTile.Invoke();
             if (managenentCost != null)
             {
-                managenentCost.AddNoHit(tileCharacter);
+//                managenentCost.AddNoHit(tileCharacter);
             }
         }
     }

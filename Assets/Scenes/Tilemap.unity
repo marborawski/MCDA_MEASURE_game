@@ -276,6 +276,8 @@ MonoBehaviour:
   - Tower
   enemyTags:
   - Enemy
+  bulletTags:
+  - Bullet
 --- !u!65 &43255004
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -697,6 +699,7 @@ MonoBehaviour:
   - Tower
   enemyTags:
   - Enemy
+  bulletTags: []
 --- !u!65 &198682115
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1234,6 +1237,8 @@ MonoBehaviour:
   - Tower
   enemyTags:
   - Enemy
+  bulletTags:
+  - Bullet
 --- !u!65 &364268281
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1388,7 +1393,7 @@ GameObject:
   - component: {fileID: 387065496}
   m_Layer: 0
   m_Name: BulletTower1
-  m_TagString: Untagged
+  m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1450,7 +1455,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2e65bfe3748fc44199d04e28bcd0d155, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  max: 10
+  max: 5
 --- !u!114 &387065496
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1968,6 +1973,8 @@ MonoBehaviour:
   - Tower
   enemyTags:
   - Enemy
+  bulletTags:
+  - Bullet
 --- !u!65 &714346068
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2557,6 +2564,8 @@ MonoBehaviour:
   - Tower
   enemyTags:
   - Enemy
+  bulletTags:
+  - Bullet
 --- !u!65 &791717344
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2673,6 +2682,8 @@ MonoBehaviour:
   - Tower
   enemyTags:
   - Enemy
+  bulletTags:
+  - Bullet
 --- !u!65 &795913732
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3537,6 +3548,8 @@ MonoBehaviour:
   - Tower
   enemyTags:
   - Enemy
+  bulletTags:
+  - Bullet
 --- !u!65 &1185283136
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3750,6 +3763,8 @@ MonoBehaviour:
   - Tower
   enemyTags:
   - Enemy
+  bulletTags:
+  - Bullet
 --- !u!65 &1337580959
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3957,6 +3972,7 @@ MonoBehaviour:
   costRoad: []
   towerTags: []
   enemyTags: []
+  bulletTags: []
 --- !u!65 &1419175925
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5776,6 +5792,8 @@ MonoBehaviour:
   - Tower
   enemyTags:
   - Enemy
+  bulletTags:
+  - Bullet
 --- !u!65 &1957140317
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6277,6 +6295,8 @@ MonoBehaviour:
   - Tower
   enemyTags:
   - Enemy
+  bulletTags:
+  - Bullet
 --- !u!65 &2081277686
 BoxCollider:
   m_ObjectHideFlags: 0

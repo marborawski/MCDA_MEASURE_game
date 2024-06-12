@@ -81,9 +81,9 @@ public class ManagementCost : MonoBehaviour
                 if (item != null)
                 {
                     tileCharacter = item.GetTileCharacter();
-                    if (tileCharacter != null && tileCharacter.GetShotAtTile())
+                    if (tileCharacter != null)
                     {
-                        s++;
+                        s+= tileCharacter.GetShotAtTile();
                     }
                 }
             }
@@ -94,9 +94,72 @@ public class ManagementCost : MonoBehaviour
         return 0;
     }
 
-// Designate a list of unique tiles
-// data - list of tiles
-// Returns a list of unique tiles
+// The number of bullets that landed on the path tiles
+// begin - beginning of the path
+// end   - end of path
+// Returns the number of bullets that landed on the path tiles
+    public int GetNuberOfBullets(TileCharacter begin, TileCharacter end)
+    {
+
+        List<CostRoad> path = GetPath(begin, end);
+        TileCharacter tileCharacter;
+
+        if (path != null)
+        {
+            int s = 0;
+            foreach (CostRoad item in path)
+            {
+                if (item != null)
+                {
+                    tileCharacter = item.GetTileCharacter();
+                    if (tileCharacter != null)
+                    {
+                        s+= tileCharacter.GetNuberOfBullets();
+                    }
+                }
+            }
+
+            return s;
+        }
+
+        return 0;
+    }
+
+// Total life lost on the path
+// begin - beginning of the path
+// end   - end of path
+// Returns total life lost on the path
+    public float GetLossHelath(TileCharacter begin, TileCharacter end)
+    {
+
+        List<CostRoad> path = GetPath(begin, end);
+        TileCharacter tileCharacter;
+
+        if (path != null)
+        {
+            float s = 0;
+            foreach (CostRoad item in path)
+            {
+                if (item != null)
+                {
+                    tileCharacter = item.GetTileCharacter();
+                    if (tileCharacter != null)
+                    {
+                        s += tileCharacter.GetLossHelath();
+                    }
+                }
+            }
+
+            return s;
+        }
+
+        return 0;
+    }
+
+
+    // Designate a list of unique tiles
+    // data - list of tiles
+    // Returns a list of unique tiles
     public List<TowerCharacter> ListToUnique(List<TowerCharacter> data)
     {
         if (data != null)

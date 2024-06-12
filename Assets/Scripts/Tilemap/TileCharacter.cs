@@ -208,7 +208,14 @@ public class TileCharacter : MonoBehaviour
 // Enemy tags
     public string[] enemyTags;
 
-    private bool shotAt = false;
+// Bullet tags
+    public string[] bulletTags;
+
+    private int shotAt = 0;
+
+    private int numberOfBullets = 0;
+
+    private float lossHealth = 0;
 
     private List<TowerCharacter> shootAtTowers = new List<TowerCharacter>();
 
@@ -323,6 +330,7 @@ public class TileCharacter : MonoBehaviour
                         value = 0;
                     }
                     AddLossHealth((data as Event4StringData).data1, (data as Event4StringData).data2, value);
+                    lossHealth += value;
                 }
                 break;
         }
@@ -339,7 +347,7 @@ public class TileCharacter : MonoBehaviour
                 {
                     shootAtTowers.Add(tower);
                 }
-                shotAt = true;
+                shotAt += 1;
                 break;
             }
         }
@@ -362,11 +370,21 @@ public class TileCharacter : MonoBehaviour
                 break;
             }
         }
+
+        foreach (string item in bulletTags)
+        {
+            if (other.tag == item)
+            {
+                numberOfBullets++;
+                break;
+            }
+        }
+
     }
 
-// Number of directions in which you cannot move from the tile
-// no - transition cost version
-// Returns the number of directions in which you cannot move from the tile
+    // Number of directions in which you cannot move from the tile
+    // no - transition cost version
+    // Returns the number of directions in which you cannot move from the tile
     public int GetSumNoMoveNeighbors(int no)
     {
         if (costRoad != null && costRoad.Length > no)
@@ -389,7 +407,7 @@ public class TileCharacter : MonoBehaviour
 
 // Determine whether the tile area is within the turret's firing range
 // Returns true if the tile is within shooting range or false if the tile is beyond shooting range
-    public bool GetShotAtTile()
+    public int GetShotAtTile()
     {
 
         return shotAt;
@@ -591,6 +609,20 @@ public class TileCharacter : MonoBehaviour
             }
 
         }
+    }
+
+// The number of bullets that landed on the tile
+// Returns the number of bullets that landed on the tile
+    public int GetNuberOfBullets()
+    {
+        return numberOfBullets;
+    }
+
+    // total life lost per tile
+    // Returns total life lost per tile
+    public float GetLossHelath()
+    {
+        return lossHealth;
     }
 
 }
